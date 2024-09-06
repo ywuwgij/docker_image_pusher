@@ -1,3 +1,4 @@
+redis
 zlmediakit/zlmediakit:master
 nginx
 ultralytics/ultralytics:latest
