@@ -1,3 +1,4 @@
+pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime
 heartexlabs/label-studio:latest
 ghcr.io/open-webui/open-webui:ollama
 redis
