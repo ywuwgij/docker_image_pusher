@@ -1,3 +1,5 @@
+ghcr.io/all-hands-ai/runtime:0.9-nikolaik
+ghcr.io/all-hands-ai/openhands:0.9
 pytorch/pytorch:2.1.2-cuda12.1-cudnn8-runtime
 heartexlabs/label-studio:latest
 ghcr.io/open-webui/open-webui:ollama
