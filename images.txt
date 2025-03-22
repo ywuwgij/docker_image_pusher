@@ -1,3 +1,4 @@
+neo4j
 nvcr.io/nvidia/pytorch:25.01-py3
 ghcr.io/all-hands-ai/runtime:0.9-nikolaik
 ghcr.io/all-hands-ai/openhands:0.9
