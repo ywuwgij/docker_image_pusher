@@ -1,3 +1,4 @@
+infiniflow/ragflow:v0.18.0-slim
 elasticsearch:8.11.3
 hub.icert.top/opensearchproject/opensearch:2.19.1
 infiniflow/infinity:v0.6.0-dev3
