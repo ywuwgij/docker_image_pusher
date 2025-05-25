@@ -1,4 +1,4 @@
-docker pull vllm/vllm-openai:latest
+vllm/vllm-openai:latest
 infiniflow/ragflow:v0.18.0-slim
 elasticsearch:8.11.3
 hub.icert.top/opensearchproject/opensearch:2.19.1
